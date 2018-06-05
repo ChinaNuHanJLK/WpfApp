@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{16C7EBD9-18E5-4A28-94C5-3B2FAD480FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControl", "CustomControl\CustomControl.csproj", "{6228C7C8-E5BA-4315-BE91-90BC7AEE17FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyControl", "MyControl\MyControl.csproj", "{EC078A97-7F64-4C2E-953B-F51930B74878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C7EBD9-18E5-4A28-94C5-3B2FAD480FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C7EBD9-18E5-4A28-94C5-3B2FAD480FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C7EBD9-18E5-4A28-94C5-3B2FAD480FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C7EBD9-18E5-4A28-94C5-3B2FAD480FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6228C7C8-E5BA-4315-BE91-90BC7AEE17FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6228C7C8-E5BA-4315-BE91-90BC7AEE17FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6228C7C8-E5BA-4315-BE91-90BC7AEE17FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6228C7C8-E5BA-4315-BE91-90BC7AEE17FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC078A97-7F64-4C2E-953B-F51930B74878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC078A97-7F64-4C2E-953B-F51930B74878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC078A97-7F64-4C2E-953B-F51930B74878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC078A97-7F64-4C2E-953B-F51930B74878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D04ED3CE-5367-4386-B862-A82D3896EE77}
+	EndGlobalSection
+EndGlobal
